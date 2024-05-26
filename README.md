@@ -101,43 +101,7 @@ This function checks if the final position of the pivot is found.
 #### end Function
 
 ebreak1 ends the program.
-
-### Integer Square Root
-
-- t0 is the input number provided by the user. In this code, it is set to 16 for testing.
-
-- t1 is the index number used to test values from 1 to the input number in the following code.
-
-#### Code Logic
-
-- main: In this section, we assign the input (which the user can change) and set the index to 1.
-
-- sqrt_loop: In this section, we check if the index is less than the input. If it is, we proceed with the following steps; otherwise, we end the code.
-
-- sqrt_check: In this section, we check if the output is a multiple of the index. If it is, we go to sqrt_check2; otherwise, we increment the index.
-
-- sqrt_check2: In this section, we check if index \* index = input. If it is, we have found the answer; otherwise, we increment the index.
-
-- sqrt_done: We store the answer in t5 and end the program.
-
-### Integer Square Root
-
-- t0 is the input number provided by the user. In this code, it is set to 16 for testing.
-
-- t1 is the index number used to test values from 1 to the input number in the following code.
-
-#### Code Logic
-
-- main: In this section, we assign the input (which the user can change) and set the index to 1.
-
-- sqrt_loop: In this section, we check if the index is less than the input. If it is, we proceed with the following steps; otherwise, we end the code.
-
-- sqrt_check: In this section, we check if the output is a multiple of the index. If it is, we go to sqrt_check2; otherwise, we increment the index.
-
-- sqrt_check2: In this section, we check if index \* index = input. If it is, we have found the answer; otherwise, we increment the index.
-
-- sqrt_done: We store the answer in t5 and end the program.
-  ![alt text](QuickSortPic-1.png)
+![alt text](QuickSortPic-1.png)
 
 #### Integer Square Root
 
