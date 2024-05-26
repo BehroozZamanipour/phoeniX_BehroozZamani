@@ -137,6 +137,7 @@ ebreak1 ends the program.
 - sqrt_check2: In this section, we check if index \* index = input. If it is, we have found the answer; otherwise, we increment the index.
 
 - sqrt_done: We store the answer in t5 and end the program.
+  ![alt text](QuickSortPic.png)
 
 #### Integer Square Root
 
@@ -155,3 +156,4 @@ ebreak1 ends the program.
 - sqrt_check2: In this section, we check if index \* index = input. If it is, we have found the answer; otherwise, we increment the index.
 
 - sqrt_done: We store the answer in t5 and end the program.
+  ![alt text](IntegerPic.png)
